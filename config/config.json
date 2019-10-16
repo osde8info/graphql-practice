@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rotcl",
+    "password": "root",
+    "database": "drawbby",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "rotcl",
+    "password": "root",
+    "database": "drawbby",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "rotcl",
+    "password": "root",
+    "database": "drawbby",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
